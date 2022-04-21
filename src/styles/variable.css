@@ -1,0 +1,21 @@
+#root {
+  --primary-box-shadow: rgba(28, 28, 28, 0.08) 0px 2px 8px;
+  --border-white: rgb(232, 232, 232);
+  --collection-bg: #f8f8f8;
+  --primary-bg: rgb(255, 255, 255);
+  --zm-grey: #878787;
+  --zm-red: #ff7e8b;
+  --zm-primary-red: rgb(239, 79, 95);
+  --grey: #cfcfcf;
+  --text-white: #ffffff;
+  --inactive-text: rgb(105, 105, 105);
+  --inactive-color: #f8f8f8;
+  --filter-text: #9c9c9c;
+  --heading-text: rgb(28, 28, 28);
+  --filter-bg: rgb(248, 248, 248);
+  --carousal-text: rgb(54, 54, 54);
+  --card-title: rgb(28, 28, 28);
+  --card-descp: rgb(105, 105, 105);
+  --card-footer: rgb(156, 156, 156);
+  --rating-bg: #24963f;
+}

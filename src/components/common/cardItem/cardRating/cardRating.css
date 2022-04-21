@@ -1,0 +1,15 @@
+.rating {
+  background-color: var(--rating-bg);
+  color: var(--text-white);
+  font-size: 14px;
+  font-weight: 300;
+  padding: 2px 5px;
+  border-radius: 6px;
+  align-self: flex-start;
+}
+.rating-text {
+  margin-right: 4px;
+}
+.rating-icon {
+  font-size: 10px;
+}

@@ -1,0 +1,13 @@
+.filters {
+  padding: 1.6rem 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.filter-wrapper {
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  z-index: 102;
+  background-color: var(--primary-bg);
+}

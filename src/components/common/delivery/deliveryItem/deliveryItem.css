@@ -1,0 +1,24 @@
+.delivery-item-wrapper {
+  display: grid;
+  justify-items: center;
+  align-items: center;
+  width: 150px;
+  margin: 0 auto;
+}
+.delivery-item-cover {
+  height: 15rem;
+  width: 15rem;
+}
+.delivery-item-image {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+
+.delivery-item-title {
+  font-size: 18px;
+  font-weight: 500;
+  color: var(--carousal-text);
+  margin-top:1rem;
+}
